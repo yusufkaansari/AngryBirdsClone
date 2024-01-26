@@ -11,7 +11,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - SlingShotArea
   - 
   - 
   - 
@@ -46,6 +46,15 @@ TagManager:
     locked: 0
   - name: Ground
     uniqueID: 4062748897
+    locked: 0
+  - name: SlingRIGHT
+    uniqueID: 880585505
+    locked: 0
+  - name: SlingLEFT
+    uniqueID: 3662579461
+    locked: 0
+  - name: StripLEFT
+    uniqueID: 1585421713
     locked: 0
   - name: Grass
     uniqueID: 3574743973
